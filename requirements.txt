@@ -1,3 +1,5 @@
+sockets
+pyfiglet
 hashlib
 pexpect
 ftplib
